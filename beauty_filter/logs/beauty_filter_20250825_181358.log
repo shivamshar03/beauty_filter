@@ -1,0 +1,58 @@
+2025-08-25 18:13:58,115 - INFO - setup_logging:127 - Logging system initialized
+2025-08-25 18:13:58,115 - INFO - __init__:1987 - Smart Beauty Filter starting up...
+2025-08-25 18:13:58,120 - INFO - _load_dresses:1262 - Total dresses loaded: 1
+2025-08-25 18:13:58,120 - INFO - _load_dresses:1266 -   spring: 1 dresses
+2025-08-25 18:13:58,120 - INFO - _load_dresses:1266 -   summer: 0 dresses
+2025-08-25 18:13:58,120 - INFO - _load_dresses:1266 -   fall: 0 dresses
+2025-08-25 18:13:58,120 - INFO - _load_dresses:1266 -   winter: 0 dresses
+2025-08-25 18:13:58,120 - INFO - __init__:999 - SkinToneDetector initialized
+2025-08-25 18:13:58,127 - INFO - __init__:688 - BeautyFilter initialized
+2025-08-25 18:13:58,127 - INFO - __init__:265 - DressRecommendationSystem initialized for season: summer
+2025-08-25 18:13:58,127 - INFO - initialize:2012 - Initializing Smart Beauty Filter...
+2025-08-25 18:13:58,127 - INFO - initialize:1646 - Attempting to initialize camera (attempt 1)
+2025-08-25 18:13:58,459 - INFO - initialize:1665 - Camera initialized successfully on index 0
+2025-08-25 18:13:58,494 - INFO - start_calibration:1151 - Starting skin tone calibration...
+2025-08-25 18:13:58,496 - INFO - initialize:2028 - Initialization complete
+2025-08-25 18:13:58,496 - INFO - run:2440 - Smart Beauty Filter started successfully
+2025-08-25 18:14:05,071 - INFO - calibrate_skin_tone:1129 - Skin tone calibrated in 6.6s: BGR(np.uint8(129), np.uint8(152), np.uint8(190))
+2025-08-25 18:14:11,897 - INFO - handle_keyboard_input:2167 - Vertical Offset: 0.3
+2025-08-25 18:14:12,534 - INFO - handle_keyboard_input:2167 - Vertical Offset: 0.3
+2025-08-25 18:14:14,858 - INFO - handle_keyboard_input:2171 - Vertical Offset: 0.3
+2025-08-25 18:14:15,580 - INFO - handle_keyboard_input:2171 - Vertical Offset: 0.3
+2025-08-25 18:14:18,558 - INFO - handle_keyboard_input:2171 - Vertical Offset: 0.3
+2025-08-25 18:14:20,060 - INFO - handle_keyboard_input:2171 - Vertical Offset: 0.3
+2025-08-25 18:14:35,443 - INFO - handle_keyboard_input:2146 - Help menu shown
+2025-08-25 18:14:40,072 - INFO - handle_keyboard_input:2146 - Help menu hidden
+2025-08-25 18:14:42,942 - INFO - _show_configuration_menu:2417 - 
+⚙️ === CONFIGURATION ===
+2025-08-25 18:14:42,942 - INFO - _show_configuration_menu:2418 - Camera Resolution: 1280x720
+2025-08-25 18:14:42,942 - INFO - _show_configuration_menu:2419 - Makeup Intensity: 0.5
+2025-08-25 18:14:42,942 - INFO - _show_configuration_menu:2420 - Calibration Frames: 30
+2025-08-25 18:14:42,942 - INFO - _show_configuration_menu:2421 - Dress Scale Factors: W=1.5299999999999996, H=1.1899999999999997
+2025-08-25 18:14:42,942 - INFO - _show_configuration_menu:2426 - Actual Camera: 1280x720
+2025-08-25 18:14:48,865 - INFO - handle_keyboard_input:2146 - Help menu shown
+2025-08-25 18:14:59,189 - INFO - handle_keyboard_input:2146 - Help menu hidden
+2025-08-25 18:15:00,825 - INFO - handle_keyboard_input:2248 - All makeup: OFF
+2025-08-25 18:15:03,399 - INFO - handle_keyboard_input:2236 - Lipstick: ON
+2025-08-25 18:15:13,167 - INFO - handle_keyboard_input:2236 - Lipstick: OFF
+2025-08-25 18:15:17,048 - INFO - handle_keyboard_input:2236 - Lipstick: ON
+2025-08-25 18:15:21,431 - INFO - handle_keyboard_input:2253 - Makeup intensity: 0.6
+2025-08-25 18:15:23,552 - INFO - handle_keyboard_input:2253 - Makeup intensity: 0.7
+2025-08-25 18:15:23,921 - INFO - handle_keyboard_input:2253 - Makeup intensity: 0.8
+2025-08-25 18:15:25,401 - INFO - handle_keyboard_input:2253 - Makeup intensity: 0.9
+2025-08-25 18:15:25,766 - INFO - handle_keyboard_input:2253 - Makeup intensity: 1.0
+2025-08-25 18:15:25,876 - INFO - handle_keyboard_input:2253 - Makeup intensity: 1.0
+2025-08-25 18:15:26,028 - INFO - handle_keyboard_input:2253 - Makeup intensity: 1.0
+2025-08-25 18:15:26,168 - INFO - handle_keyboard_input:2253 - Makeup intensity: 1.0
+2025-08-25 18:15:26,396 - INFO - handle_keyboard_input:2253 - Makeup intensity: 1.0
+2025-08-25 18:15:28,487 - INFO - handle_keyboard_input:2253 - Makeup intensity: 1.0
+2025-08-25 18:15:46,189 - INFO - handle_keyboard_input:2240 - Blush: ON
+2025-08-25 18:15:48,885 - INFO - handle_keyboard_input:2244 - Eyeshadow: ON
+2025-08-25 18:16:12,311 - INFO - handle_keyboard_input:2167 - Vertical Offset: 0.3
+2025-08-25 18:16:13,408 - INFO - handle_keyboard_input:2167 - Vertical Offset: 0.3
+2025-08-25 18:16:17,898 - INFO - handle_keyboard_input:2248 - All makeup: ON
+2025-08-25 18:16:35,120 - INFO - handle_keyboard_input:2240 - Blush: OFF
+2025-08-25 18:17:07,977 - INFO - handle_keyboard_input:2142 - User requested quit
+2025-08-25 18:17:07,977 - INFO - cleanup:2535 - Cleaning up resources...
+2025-08-25 18:17:07,990 - INFO - release:1720 - Camera released
+2025-08-25 18:17:08,051 - INFO - cleanup:2557 - Cleanup complete

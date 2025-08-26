@@ -1,0 +1,23 @@
+2025-08-25 15:47:07,064 - INFO - setup_logging:126 - Logging system initialized
+2025-08-25 15:47:07,064 - INFO - __init__:1926 - Smart Beauty Filter starting up...
+2025-08-25 15:47:07,075 - INFO - _load_dresses:1261 - Total dresses loaded: 1
+2025-08-25 15:47:07,075 - INFO - _load_dresses:1265 -   spring: 0 dresses
+2025-08-25 15:47:07,075 - INFO - _load_dresses:1265 -   summer: 0 dresses
+2025-08-25 15:47:07,075 - INFO - _load_dresses:1265 -   fall: 1 dresses
+2025-08-25 15:47:07,075 - INFO - _load_dresses:1265 -   winter: 0 dresses
+2025-08-25 15:47:07,076 - INFO - __init__:998 - SkinToneDetector initialized
+2025-08-25 15:47:07,083 - INFO - __init__:687 - BeautyFilter initialized
+2025-08-25 15:47:07,083 - INFO - __init__:264 - DressRecommendationSystem initialized for season: summer
+2025-08-25 15:47:07,083 - INFO - initialize:1951 - Initializing Smart Beauty Filter...
+2025-08-25 15:47:07,084 - INFO - initialize:1593 - Attempting to initialize camera (attempt 1)
+2025-08-25 15:47:08,250 - INFO - initialize:1612 - Camera initialized successfully on index 0
+2025-08-25 15:47:08,305 - INFO - start_calibration:1150 - Starting skin tone calibration...
+2025-08-25 15:47:08,306 - INFO - initialize:1967 - Initialization complete
+2025-08-25 15:47:08,306 - INFO - run:2359 - Smart Beauty Filter started successfully
+2025-08-25 15:47:22,298 - INFO - calibrate_skin_tone:1128 - Skin tone calibrated in 14.0s: BGR(np.uint8(118), np.uint8(141), np.uint8(180))
+2025-08-25 15:47:26,544 - INFO - handle_keyboard_input:2120 - Changed to season: summer
+2025-08-25 15:47:27,044 - INFO - handle_keyboard_input:2120 - Changed to season: fall
+2025-08-25 15:47:46,696 - INFO - handle_keyboard_input:2094 - User requested quit
+2025-08-25 15:47:46,696 - INFO - cleanup:2454 - Cleaning up resources...
+2025-08-25 15:47:46,736 - INFO - release:1667 - Camera released
+2025-08-25 15:47:46,996 - INFO - cleanup:2476 - Cleanup complete

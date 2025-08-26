@@ -1,0 +1,33 @@
+2025-08-25 17:57:39,979 - INFO - setup_logging:128 - Logging system initialized
+2025-08-25 17:57:39,980 - INFO - __init__:1988 - Smart Beauty Filter starting up...
+2025-08-25 17:57:39,986 - INFO - _load_dresses:1263 - Total dresses loaded: 1
+2025-08-25 17:57:39,986 - INFO - _load_dresses:1267 -   spring: 0 dresses
+2025-08-25 17:57:39,986 - INFO - _load_dresses:1267 -   summer: 0 dresses
+2025-08-25 17:57:39,986 - INFO - _load_dresses:1267 -   fall: 0 dresses
+2025-08-25 17:57:39,987 - INFO - _load_dresses:1267 -   winter: 1 dresses
+2025-08-25 17:57:39,987 - INFO - __init__:1000 - SkinToneDetector initialized
+2025-08-25 17:57:40,002 - INFO - __init__:689 - BeautyFilter initialized
+2025-08-25 17:57:40,002 - INFO - __init__:266 - DressRecommendationSystem initialized for season: summer
+2025-08-25 17:57:40,002 - INFO - initialize:2013 - Initializing Smart Beauty Filter...
+2025-08-25 17:57:40,002 - INFO - initialize:1647 - Attempting to initialize camera (attempt 1)
+2025-08-25 17:57:41,777 - INFO - initialize:1666 - Camera initialized successfully on index 0
+2025-08-25 17:57:41,824 - INFO - start_calibration:1152 - Starting skin tone calibration...
+2025-08-25 17:57:41,824 - INFO - initialize:2029 - Initialization complete
+2025-08-25 17:57:41,824 - INFO - run:2441 - Smart Beauty Filter started successfully
+2025-08-25 17:57:57,646 - INFO - calibrate_skin_tone:1130 - Skin tone calibrated in 15.8s: BGR(np.uint8(147), np.uint8(166), np.uint8(200))
+2025-08-25 17:58:07,197 - INFO - handle_keyboard_input:2202 - Changed to season: summer
+2025-08-25 17:58:07,999 - INFO - handle_keyboard_input:2202 - Changed to season: fall
+2025-08-25 17:58:09,000 - INFO - handle_keyboard_input:2202 - Changed to season: winter
+2025-08-25 17:58:33,277 - INFO - handle_keyboard_input:2156 - Width Factor: 1.7
+2025-08-25 17:58:38,213 - INFO - handle_keyboard_input:2164 - Height Factor: 2.1
+2025-08-25 17:58:38,971 - INFO - handle_keyboard_input:2164 - Height Factor: 2.0
+2025-08-25 17:58:40,011 - INFO - handle_keyboard_input:2164 - Height Factor: 1.9
+2025-08-25 17:58:41,701 - INFO - handle_keyboard_input:2164 - Height Factor: 1.8
+2025-08-25 17:58:43,213 - INFO - handle_keyboard_input:2164 - Height Factor: 1.7
+2025-08-25 17:59:01,240 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.5
+2025-08-25 17:59:03,222 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.4
+2025-08-25 17:59:06,895 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.4
+2025-08-25 17:59:22,621 - INFO - handle_keyboard_input:2143 - User requested quit
+2025-08-25 17:59:22,621 - INFO - cleanup:2536 - Cleaning up resources...
+2025-08-25 17:59:22,632 - INFO - release:1721 - Camera released
+2025-08-25 17:59:22,671 - INFO - cleanup:2558 - Cleanup complete

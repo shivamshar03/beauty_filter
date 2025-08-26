@@ -1,0 +1,30 @@
+2025-08-25 17:11:33,342 - INFO - setup_logging:128 - Logging system initialized
+2025-08-25 17:11:33,342 - INFO - __init__:1988 - Smart Beauty Filter starting up...
+2025-08-25 17:11:33,345 - INFO - _load_dresses:1263 - Total dresses loaded: 1
+2025-08-25 17:11:33,345 - INFO - _load_dresses:1267 -   spring: 0 dresses
+2025-08-25 17:11:33,345 - INFO - _load_dresses:1267 -   summer: 0 dresses
+2025-08-25 17:11:33,346 - INFO - _load_dresses:1267 -   fall: 1 dresses
+2025-08-25 17:11:33,346 - INFO - _load_dresses:1267 -   winter: 0 dresses
+2025-08-25 17:11:33,346 - INFO - __init__:1000 - SkinToneDetector initialized
+2025-08-25 17:11:33,351 - INFO - __init__:689 - BeautyFilter initialized
+2025-08-25 17:11:33,351 - INFO - __init__:266 - DressRecommendationSystem initialized for season: summer
+2025-08-25 17:11:33,351 - INFO - initialize:2013 - Initializing Smart Beauty Filter...
+2025-08-25 17:11:33,351 - INFO - initialize:1647 - Attempting to initialize camera (attempt 1)
+2025-08-25 17:11:33,597 - INFO - initialize:1666 - Camera initialized successfully on index 0
+2025-08-25 17:11:33,625 - INFO - start_calibration:1152 - Starting skin tone calibration...
+2025-08-25 17:11:33,625 - INFO - initialize:2029 - Initialization complete
+2025-08-25 17:11:33,625 - INFO - run:2356 - Smart Beauty Filter started successfully
+2025-08-25 17:11:41,481 - INFO - handle_keyboard_input:2147 - Help menu shown
+2025-08-25 17:11:43,000 - INFO - calibrate_skin_tone:1130 - Skin tone calibrated in 9.4s: BGR(np.uint8(153), np.uint8(171), np.uint8(204))
+2025-08-25 17:12:21,877 - INFO - handle_keyboard_input:2147 - Help menu hidden
+2025-08-25 17:12:34,841 - INFO - handle_keyboard_input:2178 - Dress scaling reset to defaults
+2025-08-25 17:13:21,300 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.1
+2025-08-25 17:13:22,038 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.2
+2025-08-25 17:13:22,424 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.3
+2025-08-25 17:13:23,218 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.4
+2025-08-25 17:13:30,730 - INFO - handle_keyboard_input:2147 - Help menu shown
+2025-08-25 17:13:34,214 - INFO - handle_keyboard_input:2147 - Help menu hidden
+2025-08-25 17:13:36,190 - INFO - handle_keyboard_input:2143 - User requested quit
+2025-08-25 17:13:36,190 - INFO - cleanup:2451 - Cleaning up resources...
+2025-08-25 17:13:36,199 - INFO - release:1721 - Camera released
+2025-08-25 17:13:36,242 - INFO - cleanup:2473 - Cleanup complete

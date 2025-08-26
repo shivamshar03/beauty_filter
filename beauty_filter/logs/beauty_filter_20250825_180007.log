@@ -1,0 +1,155 @@
+2025-08-25 18:00:07,509 - INFO - setup_logging:128 - Logging system initialized
+2025-08-25 18:00:07,509 - INFO - __init__:1988 - Smart Beauty Filter starting up...
+2025-08-25 18:00:07,516 - INFO - _load_dresses:1263 - Total dresses loaded: 1
+2025-08-25 18:00:07,516 - INFO - _load_dresses:1267 -   spring: 0 dresses
+2025-08-25 18:00:07,516 - INFO - _load_dresses:1267 -   summer: 0 dresses
+2025-08-25 18:00:07,516 - INFO - _load_dresses:1267 -   fall: 1 dresses
+2025-08-25 18:00:07,516 - INFO - _load_dresses:1267 -   winter: 0 dresses
+2025-08-25 18:00:07,516 - INFO - __init__:1000 - SkinToneDetector initialized
+2025-08-25 18:00:07,517 - INFO - __init__:689 - BeautyFilter initialized
+2025-08-25 18:00:07,517 - INFO - __init__:266 - DressRecommendationSystem initialized for season: summer
+2025-08-25 18:00:07,517 - INFO - initialize:2013 - Initializing Smart Beauty Filter...
+2025-08-25 18:00:07,517 - INFO - initialize:1647 - Attempting to initialize camera (attempt 1)
+2025-08-25 18:00:11,114 - INFO - initialize:1666 - Camera initialized successfully on index 0
+2025-08-25 18:00:11,165 - INFO - start_calibration:1152 - Starting skin tone calibration...
+2025-08-25 18:00:11,166 - INFO - initialize:2029 - Initialization complete
+2025-08-25 18:00:11,166 - INFO - run:2441 - Smart Beauty Filter started successfully
+2025-08-25 18:00:26,133 - INFO - calibrate_skin_tone:1130 - Skin tone calibrated in 15.0s: BGR(np.uint8(163), np.uint8(183), np.uint8(223))
+2025-08-25 18:00:30,582 - INFO - handle_keyboard_input:2202 - Changed to season: summer
+2025-08-25 18:00:32,235 - INFO - handle_keyboard_input:2202 - Changed to season: fall
+2025-08-25 18:00:48,336 - INFO - handle_keyboard_input:2237 - Lipstick: ON
+2025-08-25 18:02:11,768 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.4
+2025-08-25 18:02:12,491 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.4
+2025-08-25 18:02:12,777 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.4
+2025-08-25 18:02:12,926 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.4
+2025-08-25 18:02:14,478 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.4
+2025-08-25 18:02:14,905 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.4
+2025-08-25 18:02:15,196 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.4
+2025-08-25 18:02:15,338 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.4
+2025-08-25 18:02:16,239 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:02:28,980 - INFO - handle_keyboard_input:2164 - Height Factor: 1.7
+2025-08-25 18:02:29,864 - INFO - handle_keyboard_input:2164 - Height Factor: 1.7
+2025-08-25 18:02:30,434 - INFO - handle_keyboard_input:2164 - Height Factor: 1.7
+2025-08-25 18:02:31,039 - INFO - handle_keyboard_input:2164 - Height Factor: 1.7
+2025-08-25 18:02:31,332 - INFO - handle_keyboard_input:2164 - Height Factor: 1.7
+2025-08-25 18:02:31,622 - INFO - handle_keyboard_input:2164 - Height Factor: 1.6
+2025-08-25 18:02:31,763 - INFO - handle_keyboard_input:2164 - Height Factor: 1.6
+2025-08-25 18:02:32,048 - INFO - handle_keyboard_input:2164 - Height Factor: 1.6
+2025-08-25 18:02:32,191 - INFO - handle_keyboard_input:2164 - Height Factor: 1.6
+2025-08-25 18:02:32,345 - INFO - handle_keyboard_input:2164 - Height Factor: 1.6
+2025-08-25 18:02:32,630 - INFO - handle_keyboard_input:2164 - Height Factor: 1.6
+2025-08-25 18:02:32,770 - INFO - handle_keyboard_input:2164 - Height Factor: 1.6
+2025-08-25 18:02:33,058 - INFO - handle_keyboard_input:2164 - Height Factor: 1.6
+2025-08-25 18:02:33,194 - INFO - handle_keyboard_input:2164 - Height Factor: 1.6
+2025-08-25 18:02:33,365 - INFO - handle_keyboard_input:2164 - Height Factor: 1.6
+2025-08-25 18:02:33,640 - INFO - handle_keyboard_input:2164 - Height Factor: 1.5
+2025-08-25 18:02:33,927 - INFO - handle_keyboard_input:2164 - Height Factor: 1.5
+2025-08-25 18:02:34,645 - INFO - handle_keyboard_input:2164 - Height Factor: 1.5
+2025-08-25 18:02:35,530 - INFO - handle_keyboard_input:2164 - Height Factor: 1.5
+2025-08-25 18:02:36,379 - INFO - handle_keyboard_input:2164 - Height Factor: 1.5
+2025-08-25 18:02:37,133 - INFO - handle_keyboard_input:2164 - Height Factor: 1.5
+2025-08-25 18:02:44,998 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.4
+2025-08-25 18:02:45,564 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.4
+2025-08-25 18:02:45,867 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.4
+2025-08-25 18:02:46,147 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.4
+2025-08-25 18:02:46,591 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.4
+2025-08-25 18:02:46,870 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.4
+2025-08-25 18:02:47,160 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.4
+2025-08-25 18:02:47,296 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:02:47,604 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:02:49,542 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:02:56,424 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:02:56,568 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:02:56,858 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:02:56,999 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:02:59,059 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.3
+2025-08-25 18:02:59,338 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.3
+2025-08-25 18:02:59,479 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.3
+2025-08-25 18:02:59,769 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.3
+2025-08-25 18:02:59,902 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.3
+2025-08-25 18:03:04,612 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.3
+2025-08-25 18:03:09,434 - INFO - handle_keyboard_input:2156 - Width Factor: 1.7
+2025-08-25 18:03:10,159 - INFO - handle_keyboard_input:2156 - Width Factor: 1.7
+2025-08-25 18:03:10,584 - INFO - handle_keyboard_input:2156 - Width Factor: 1.7
+2025-08-25 18:03:10,911 - INFO - handle_keyboard_input:2156 - Width Factor: 1.7
+2025-08-25 18:03:11,848 - INFO - handle_keyboard_input:2156 - Width Factor: 1.6
+2025-08-25 18:03:13,197 - INFO - handle_keyboard_input:2156 - Width Factor: 1.6
+2025-08-25 18:03:13,351 - INFO - handle_keyboard_input:2156 - Width Factor: 1.6
+2025-08-25 18:03:13,783 - INFO - handle_keyboard_input:2156 - Width Factor: 1.6
+2025-08-25 18:03:17,013 - INFO - handle_keyboard_input:2156 - Width Factor: 1.6
+2025-08-25 18:03:35,063 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.4
+2025-08-25 18:03:35,805 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.4
+2025-08-25 18:03:36,098 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.4
+2025-08-25 18:03:36,236 - INFO - handle_keyboard_input:2172 - Vertical Offset: 0.4
+2025-08-25 18:03:37,278 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.4
+2025-08-25 18:03:37,568 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.4
+2025-08-25 18:03:37,703 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.4
+2025-08-25 18:03:38,587 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:03:42,857 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:03:52,162 - INFO - handle_keyboard_input:2164 - Height Factor: 1.5
+2025-08-25 18:03:52,768 - INFO - handle_keyboard_input:2164 - Height Factor: 1.5
+2025-08-25 18:03:53,388 - INFO - handle_keyboard_input:2164 - Height Factor: 1.5
+2025-08-25 18:03:53,681 - INFO - handle_keyboard_input:2164 - Height Factor: 1.4
+2025-08-25 18:03:53,971 - INFO - handle_keyboard_input:2164 - Height Factor: 1.4
+2025-08-25 18:03:54,271 - INFO - handle_keyboard_input:2164 - Height Factor: 1.4
+2025-08-25 18:03:54,583 - INFO - handle_keyboard_input:2164 - Height Factor: 1.4
+2025-08-25 18:03:54,736 - INFO - handle_keyboard_input:2164 - Height Factor: 1.4
+2025-08-25 18:03:55,027 - INFO - handle_keyboard_input:2164 - Height Factor: 1.4
+2025-08-25 18:03:55,320 - INFO - handle_keyboard_input:2164 - Height Factor: 1.4
+2025-08-25 18:03:55,460 - INFO - handle_keyboard_input:2164 - Height Factor: 1.4
+2025-08-25 18:03:55,763 - INFO - handle_keyboard_input:2164 - Height Factor: 1.4
+2025-08-25 18:03:55,900 - INFO - handle_keyboard_input:2164 - Height Factor: 1.4
+2025-08-25 18:03:56,198 - INFO - handle_keyboard_input:2164 - Height Factor: 1.3
+2025-08-25 18:03:56,339 - INFO - handle_keyboard_input:2164 - Height Factor: 1.3
+2025-08-25 18:03:56,635 - INFO - handle_keyboard_input:2164 - Height Factor: 1.3
+2025-08-25 18:03:56,775 - INFO - handle_keyboard_input:2164 - Height Factor: 1.3
+2025-08-25 18:03:57,077 - INFO - handle_keyboard_input:2164 - Height Factor: 1.3
+2025-08-25 18:03:57,366 - INFO - handle_keyboard_input:2164 - Height Factor: 1.3
+2025-08-25 18:03:57,655 - INFO - handle_keyboard_input:2164 - Height Factor: 1.3
+2025-08-25 18:03:57,801 - INFO - handle_keyboard_input:2164 - Height Factor: 1.3
+2025-08-25 18:03:58,093 - INFO - handle_keyboard_input:2164 - Height Factor: 1.3
+2025-08-25 18:03:58,401 - INFO - handle_keyboard_input:2164 - Height Factor: 1.3
+2025-08-25 18:03:58,540 - INFO - handle_keyboard_input:2164 - Height Factor: 1.2
+2025-08-25 18:03:58,843 - INFO - handle_keyboard_input:2164 - Height Factor: 1.2
+2025-08-25 18:03:59,439 - INFO - handle_keyboard_input:2164 - Height Factor: 1.2
+2025-08-25 18:04:00,029 - INFO - handle_keyboard_input:2164 - Height Factor: 1.2
+2025-08-25 18:04:00,321 - INFO - handle_keyboard_input:2164 - Height Factor: 1.2
+2025-08-25 18:04:00,500 - INFO - handle_keyboard_input:2164 - Height Factor: 1.2
+2025-08-25 18:04:02,524 - INFO - handle_keyboard_input:2164 - Height Factor: 1.2
+2025-08-25 18:04:14,079 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:04:14,548 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:04:15,309 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:04:16,186 - INFO - handle_keyboard_input:2168 - Vertical Offset: 0.3
+2025-08-25 18:04:25,339 - INFO - handle_keyboard_input:2156 - Width Factor: 1.6
+2025-08-25 18:04:25,783 - INFO - handle_keyboard_input:2156 - Width Factor: 1.6
+2025-08-25 18:04:25,924 - INFO - handle_keyboard_input:2156 - Width Factor: 1.6
+2025-08-25 18:04:26,239 - INFO - handle_keyboard_input:2156 - Width Factor: 1.6
+2025-08-25 18:04:26,381 - INFO - handle_keyboard_input:2156 - Width Factor: 1.6
+2025-08-25 18:04:26,826 - INFO - handle_keyboard_input:2156 - Width Factor: 1.5
+2025-08-25 18:04:27,439 - INFO - handle_keyboard_input:2156 - Width Factor: 1.5
+2025-08-25 18:04:27,739 - INFO - handle_keyboard_input:2156 - Width Factor: 1.5
+2025-08-25 18:04:28,458 - INFO - handle_keyboard_input:2156 - Width Factor: 1.5
+2025-08-25 18:04:28,904 - INFO - handle_keyboard_input:2156 - Width Factor: 1.5
+2025-08-25 18:04:29,047 - INFO - handle_keyboard_input:2156 - Width Factor: 1.5
+2025-08-25 18:04:32,673 - INFO - handle_keyboard_input:2156 - Width Factor: 1.5
+2025-08-25 18:04:33,406 - INFO - handle_keyboard_input:2156 - Width Factor: 1.5
+2025-08-25 18:04:33,699 - INFO - handle_keyboard_input:2156 - Width Factor: 1.5
+2025-08-25 18:04:33,839 - INFO - handle_keyboard_input:2156 - Width Factor: 1.5
+2025-08-25 18:04:34,431 - INFO - handle_keyboard_input:2152 - Width Factor: 1.5
+2025-08-25 18:04:34,572 - INFO - handle_keyboard_input:2152 - Width Factor: 1.5
+2025-08-25 18:04:34,884 - INFO - handle_keyboard_input:2152 - Width Factor: 1.5
+2025-08-25 18:04:35,028 - INFO - handle_keyboard_input:2152 - Width Factor: 1.5
+2025-08-25 18:04:35,192 - INFO - handle_keyboard_input:2152 - Width Factor: 1.5
+2025-08-25 18:04:36,370 - INFO - handle_keyboard_input:2152 - Width Factor: 1.5
+2025-08-25 18:04:37,297 - INFO - handle_keyboard_input:2152 - Width Factor: 1.5
+2025-08-25 18:06:02,193 - INFO - _show_configuration_menu:2418 - 
+⚙️ === CONFIGURATION ===
+2025-08-25 18:06:02,194 - INFO - _show_configuration_menu:2419 - Camera Resolution: 1280x720
+2025-08-25 18:06:02,194 - INFO - _show_configuration_menu:2420 - Makeup Intensity: 0.5
+2025-08-25 18:06:02,194 - INFO - _show_configuration_menu:2421 - Calibration Frames: 30
+2025-08-25 18:06:02,194 - INFO - _show_configuration_menu:2422 - Dress Scale Factors: W=1.5299999999999996, H=1.1899999999999997
+2025-08-25 18:06:02,194 - INFO - _show_configuration_menu:2427 - Actual Camera: 1280x720
+2025-08-25 18:07:41,737 - INFO - handle_keyboard_input:2143 - User requested quit
+2025-08-25 18:07:41,737 - INFO - cleanup:2536 - Cleaning up resources...
+2025-08-25 18:07:41,749 - INFO - release:1721 - Camera released
+2025-08-25 18:07:41,782 - INFO - cleanup:2558 - Cleanup complete
